@@ -1,4 +1,4 @@
-const axios = require('axios');
+cost axios = require('axios');
 
 let config = {
     method: 'get',
